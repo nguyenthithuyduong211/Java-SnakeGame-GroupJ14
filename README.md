@@ -13,9 +13,7 @@
 - Menu chính 5 nút + ảnh nền tự vẽ
 - 5 màn chơi (tăng vật cản, tốc độ, số mồi cần ăn)
 - Chế độ vô tận
-- Cửa hàng mua màu rắn bằng “mồi”
 - Rắn có 2 con mắt, bắt đầu 2 đốt, vị trí cố định
-- Mồi & vật cản là ảnh PNG
 - Header tỷ lệ 2:5, khu chơi 5:5
 - Cài đặt âm thanh + pause trong game
 
